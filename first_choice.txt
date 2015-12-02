@@ -1,0 +1,6 @@
+You are in a room with three doors.
+-Which door will you go through?
+\ No newline at end of file
++Which door will you go through?
++I pick the door in the middle.
+\ No newline at end of file
